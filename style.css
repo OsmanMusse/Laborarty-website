@@ -24,11 +24,17 @@ body{
     height: 114px;
 }
 
+
+.upper-nav{
+    display: flex;
+    justify-content: center
+}
+
 nav{
   display: flex;
   align-items: center;
   height: 115px;
-  background-color: #435295;
+  background-color: #000000;
   padding: 0 30px;
   justify-content: space-between;
 }
